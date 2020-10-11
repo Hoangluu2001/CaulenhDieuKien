@@ -20,7 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="98fda7fa-f88b-48f8-a5ec-b99681766a76" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/js/tuantu3ngoi2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/CLDK1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/CLDK2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/CLDK3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/CLDK4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/CLDK5.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +72,7 @@
       <workItem from="1602231084957" duration="2603000" />
       <workItem from="1602234723323" duration="118000" />
       <workItem from="1602407637609" duration="80000" />
-      <workItem from="1602407720506" duration="2336000" />
+      <workItem from="1602407720506" duration="4286000" />
     </task>
     <servers />
   </component>
